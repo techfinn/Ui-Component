@@ -1,0 +1,36 @@
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  text-align-last: center;
+}
+
+.card{
+  float: left;
+  width: 30%;
+  border:  solid #CAD5E2;
+}
+h2{
+font-family: monospace;
+color: rgb(87, 85, 85);
+
+text-align-last: center;
+
+}
+
+img{
+  width: 100%;
+}
+.cont{
+  margin-left: 5%;
+}
+
+
+button{
+  margin-left: 40%;
+  font-family: monospace;
+  padding: 5%;
+  background-color: antiquewhite;
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,33 @@
+body{
+    background:white;
+}
+input{
+    
+    border: none;
+    color: black;
+    background: none;
+    outline: none;
+    margin-left:3% ;
+}
+i{
+    float: left;
+    margin-left:2% ;
+
+}
+.textbox{
+   
+    background:rgb(235, 235, 235);
+    box-shadow:1px 3px 6px 2px #888888;
+    padding: 1%;
+    border-radius: 30px;
+    background-color: none;
+    width: 50%;
+    border: 2px solid rgb(235, 235, 235);
+}
+input::placeholder{
+
+    color: purple;
+    font-family:cursive ;
+    font-weight: bold;
+ 
+}

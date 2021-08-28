@@ -1,0 +1,46 @@
+body{
+    background-image: url("Asset1.png");
+}
+a{
+    color: rgb(255, 255, 255);
+    padding-left: 3%;
+    text-decoration: transparent;
+    
+}
+#bed{
+    margin-left: 60%;
+}
+button{
+    margin-left: 3%;
+    border-radius: 25px;
+   background: #ffffff;
+   padding: 15px;
+   width: px;
+   height: 50px;
+   
+}
+img{
+    height: 350%;
+    width: 50%;
+
+    padding-top: 15%;
+}
+.cont{
+    width: 90%;
+ /* margin-left:30%; */
+ display: inline;
+ 
+
+}
+.info{
+    float: left;
+    margin-top: 15%;
+}
+h1{
+    font-family:monospace;
+}
+.contact{
+    border:  solid red;
+    
+}
+
